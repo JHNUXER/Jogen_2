@@ -1,2 +1,2 @@
 # Jogen_2
-second attempt at making a JoGEn Engine
+This is my second attempt at making a JoGEn Engine
